@@ -1,0 +1,10 @@
+PODS:
+  - RBStoryboardLink (0.1.0)
+
+DEPENDENCIES:
+  - RBStoryboardLink (~> 0.1)
+
+SPEC CHECKSUMS:
+  RBStoryboardLink: 2abe4697a7dd6137482590b044f6e4f1c2b05837
+
+COCOAPODS: 0.33.1
